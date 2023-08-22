@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	if err := os.Setenv("OPENAI_API_KEY", "sk-UhzxW8avagN8D00Q2AmHeJL1LBz6NFv9rI3USa94GiXGPa9r"); err != nil {
+	if err := os.Setenv("OPENAI_API_KEY", "sk-U*************************iXGPa9r"); err != nil {
 		panic(err)
 	}
 
